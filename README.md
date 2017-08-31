@@ -4,5 +4,5 @@ This is repository for the curricular and survey materials used by Hoops for Hea
 
 
 #### Acknowledgments
-We would like to acknowledge Leah Guthrie for her sugar detective materials as well as the other various sources that contributed to the curricular material that deposited here. 
+We would like to acknowledge Leah Guthrie for her sugar detective materials as well as the other various sources, such as sciencebob.com, that contributed to the curricular material that deposited here. 
 
